@@ -37,7 +37,7 @@
 &emsp;
 <a href="mailto:jabhijeet9274@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="abhijeet1681"  /></a>
 &emsp;
-<a href="https://www.youtube.com/c/ucazgemq4gr3i1432udnir_g" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="ucazgemq4gr3i1432udnir_g"  /></a>
+<a href="https://youtube.com/channel/UCAzGEmq4gR3i1432uDNiR_g" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="ucazgemq4gr3i1432udnir_g"  /></a>
 
 
 
