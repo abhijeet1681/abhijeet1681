@@ -33,7 +33,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/abhijeet-jadhav-30b625211" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abhijeet-jadhav-30b625211"  /></a>
 &emsp;
-<a href="https://instagram.com/abhi_official__24" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-f335ab?style=for-the-badge&logo=instagram&logoColor=white" alt="abhi_official__24"  /></a>
+<a href="https://instagram.com/developer_abhii?igshid=ZDdkNTZiNTM="><img align="center" src="https://img.shields.io/badge/Instagram-f335ab?style=for-the-badge&logo=instagram&logoColor=white" alt="abhi_official__24"  /></a>
 &emsp;
 <a href="mailto:jabhijeet9274@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="abhijeet1681"  /></a>
 &emsp;
