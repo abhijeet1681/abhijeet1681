@@ -1,171 +1,190 @@
-## Hi there 👋
+<div align="center">
 
-![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
-<h1 align="center">Hi , I'm Abhijeet Jadhav</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Abhijeet%20Jadhav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20IEEE%20Published%20Researcher%20%7C%20AI%20Enthusiast&descAlignY=55" width="100%" />
 
-<!-- - 🌱 I’m currently learning *React & Exploring Open Source* -->
+</div>
 
-- ⚛️ I’m currently working on improving my Frontend Web Development Skills.
+<h1 align="center">
+  Hi 👋, I'm Abhijeet Jadhav
+</h1>
 
-- 💬 I’m looking for help with *Back-End*.
+<h3 align="center">
+🚀 Full Stack Developer | 🤖 AI Enthusiast | 📚 IEEE Published Researcher
+</h3>
 
-- 💬 Ask me about *Web Devevelopment*
-
-- 👨‍💻 All of my projects are available at [https://abhijeetjadhavportfolio.netlify.app/](https://abhijeetjadhavportfolio.netlify.app/)
-
-
-- 📫 How to reach me *jabhijeet9274@gmail.com*
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MERN+Stack;AI+%26+NLP+Researcher;IEEE+Published+Author;Building+Modern+Web+Experiences" alt="Typing SVG" />
+</p>
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<img align="right" alt="Coding" width="370" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left">
-<a href="https://linkedin.com/in/abhijeet-jadhav-30b625211" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abhijeet-jadhav-30b625211"  /></a>
-&emsp;
-<a href="https://instagram.com/developer_abhii?igshid=ZDdkNTZiNTM="><img align="center" src="https://img.shields.io/badge/Instagram-f335ab?style=for-the-badge&logo=instagram&logoColor=white" alt="abhi_official__24"  /></a>
-&emsp;
-<a href="mailto:jabhijeet9274@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="abhijeet1681"  /></a>
-&emsp;
-<a href="https://youtube.com/channel/UCAzGEmq4gR3i1432uDNiR_g" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="ucazgemq4gr3i1432udnir_g"  /></a>
+# 💫 About Me
 
+- 🎓 MCA Student at **SPIT Mumbai**
+- 💻 Passionate **Full Stack Developer** from India
+- ⚡ Skilled in **React, Node.js, JavaScript & MERN Stack**
+- 🤖 Interested in **Artificial Intelligence, NLP & Educational Technology**
+- 📚 Published Research Paper in **IEEE Conference**
+- 🌱 Currently exploring **Backend Development & Open Source**
+- 🎯 Goal: Building impactful AI-powered applications
+- 💬 Ask me about **Web Development, React & JavaScript**
 
+---
+
+# 🏆 IEEE Research Publication
+
+<div align="center">
+
+### 📄 A Comparative Framework for Educational Video Summarization using BART-CNN and PEGASUS
+
+🎯 Presented at **ICAUC 2026, Thailand**  
+🏢 Published by **IEEE**
+
+🔗 DOI: **10.1109/ICAUC68182.2026.11441095**
+
+📖 Paper Link:  
+https://ieeexplore.ieee.org/document/11441095
+
+</div>
+
+---
+
+# 🌐 Portfolio
+
+<div align="center">
+
+### 🚀 Visit My Portfolio
+
+🔗 https://abhijeetjadhavportfolio.netlify.app/
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/abhijeet-jadhav-30b625211" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jabhijeet9274@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/developer_abhii?igshid=ZDdkNTZiNTM=" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/channel/UCAzGEmq4gR3i1432uDNiR_g" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
 </p>
 
-
 ---
 
-<h3 align="center">Language:</h3>
-<p>
-  <a href="">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  </a>
-  &emsp;
-  <a href="">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJs">
-  </a>
-  &emsp;
-  <a href="">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="">
-  </a>
-  &emsp;
-  <a href="">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="">
-  </a>
-  &emsp;
-  <a href="">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="">
-  </a>
-  &emsp;
-  <a href="">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="">
-  </a>
-  &emsp;
-  <!-- <a href="">
-    <img src="" alt="">
-  </a>
-  &emsp; -->
+# ⚡ Tech Stack
+
+## 🚀 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,java,python,c,cpp,html,css" />
 
 </p>
 
-<h3 align="center">Libraries & Frameworks:</h3>
-<p>
-<a href="">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
-  </a>
-    &emsp;
-<a href="">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="">
-  </a>  &emsp;
-<a href="">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="">
-      &emsp;
-  </a>
-<a href="">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="">
-  </a>
-    &emsp;
-
-<p/>
-
-<h3 align="center">Database & Hosting:</h3>
-
-<p>
-<a href="">
-    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="">
-  </a>
-    &emsp;
-<a href="">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="">
-  </a>
-    &emsp;
-<a href="">
-    <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" alt="">
-  </a>
-    &emsp;
-<a href="">
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="">
-  </a>
-    &emsp;
-<a href="">
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="">
-  </a>
-    &emsp;
-<p/>
-<h3 align="center">Tools & Software:</h3>
-<p>
-<a href="">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="">
-  </a>
-    &emsp;
-<a href="">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="">
-  </a>
-    &emsp;
-<a href="">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="">
-  </a>
-    &emsp;
-
-<p/>
-
-<!-- <h3 align="center">Language:</h3>
-<p>
-<a href="">
-    <img src="" alt="">
-  </a>
-<p/> -->
-  
 ---
 
-#### 📈 My GitHub Statistics
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=abhijeet1681&show_icons=true&count_private=true&hide_title=true&theme=dracula)
+## ⚛️ Frameworks & Libraries
 
-<!-- --- -->
-<!-- #### </p> Language Used
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet1681&langs_count=6&layout=compact&theme=dracula" />
-</a> -->
+<p align="center">
 
-<!-- --- -->
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind" />
 
-
-
-
+</p>
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeet1681&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet1681" /> </p>
+## 🗄️ Database & Hosting
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,netlify,heroku" />
+
+</p>
 
 ---
+
+## 🛠️ Tools & Platforms
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhijeet1681&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet1681&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet1681&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhijeet1681&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeet1681&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=abhijeet1681&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Code. Create. Innovate. Repeat.” ✨
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
