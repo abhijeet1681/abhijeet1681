@@ -53,7 +53,7 @@ https://ieeexplore.ieee.org/document/11441095
 
 ---
 # 🤝 Connect With Me
-<h2 align="center">🤝 Connect With Me</h2>
+<!-- <h2 align="center">🤝 Connect With Me</h2> -->
 
 <p align="center">
   <a href="https://linkedin.com/in/abhijeet-jadhav-30b625211" target="_blank">
