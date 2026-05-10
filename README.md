@@ -227,5 +227,5 @@ https://ieeexplore.ieee.org/document/11441095
 
 ### ⚡ “Code • Create • Innovate • Repeat” ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;IEEE+Published+Researcher;React+%7C+Node.js+%7C+MERN+Stack;AI+%26+NLP+Enthusiast;Building+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Lets+build+something+amazing;Full+Stack+Developer;AI+Enthusiast" />
 </div>
