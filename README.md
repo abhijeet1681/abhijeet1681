@@ -155,9 +155,9 @@ https://ieeexplore.ieee.org/document/11441095
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhijeet1681&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhijeet1681&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet1681&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet1681&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -167,7 +167,7 @@ https://ieeexplore.ieee.org/document/11441095
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet1681&theme=tokyonight&hide_border=true&border_radius=15" />
+<img src="https://streak-stats.demolab.com?user=abhijeet1681&theme=tokyonight&hide_border=true" />
 
 </div>
 
