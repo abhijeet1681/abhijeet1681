@@ -195,8 +195,8 @@ https://ieeexplore.ieee.org/document/11441095
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" />
-
+<!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" /> -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 ---
 
