@@ -52,35 +52,26 @@ https://ieeexplore.ieee.org/document/11441095
 📧 Email: **jabhijeet9274@gmail.com**
 
 ---
-
+# 🤝 Connect With Me
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-
-<a href="https://linkedin.com/in/abhijeet-jadhav-30b625211" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://instagram.com/developer_abhii?igshid=ZDdkNTZiNTM=" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:jabhijeet9274@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://youtube.com/channel/UCAzGEmq4gR3i1432uDNiR_g" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-
-</p>
----
+  <a href="https://linkedin.com/in/abhijeet-jadhav-30b625211" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://instagram.com/developer_abhii?igshid=ZDdkNTZiNTM=" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+  <a href="mailto:jabhijeet9274@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://youtube.com/channel/UCAzGEmq4gR3i1432uDNiR_g" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>---
 
 # 💻 Tech Stack
 
