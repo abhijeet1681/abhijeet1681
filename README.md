@@ -75,8 +75,6 @@ https://ieeexplore.ieee.org/document/11441095
 
 ---
 
-# 💻 Tech Stack
-
 ## 🚀 Languages
 
 <p align="center">
@@ -154,8 +152,11 @@ https://ieeexplore.ieee.org/document/11441095
 # 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijeet1681&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet1681&layout=compact&theme=radical" height="180"/>
+  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhijeet1681&theme=github_dark" height="180em" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhijeet1681&theme=github_dark" height="180em" />
+
 </div>
 
 ---
