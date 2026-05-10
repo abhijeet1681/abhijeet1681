@@ -195,10 +195,9 @@ https://ieeexplore.ieee.org/document/11441095
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" />
 
 </div>
-
 ---
 
 # 🌟 Profile Summary
