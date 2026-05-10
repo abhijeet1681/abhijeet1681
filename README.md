@@ -154,11 +154,8 @@ https://ieeexplore.ieee.org/document/11441095
 # 📈 GitHub Statistics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhijeet1681&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet1681&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=abhijeet1681&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet1681&layout=compact&theme=radical" height="180"/>
 </div>
 
 ---
@@ -167,7 +164,7 @@ https://ieeexplore.ieee.org/document/11441095
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=abhijeet1681&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet1681&theme=tokyonight&hide_border=true&border_radius=15" />
 
 </div>
 
